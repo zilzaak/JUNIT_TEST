@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ControllworkerTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="JUNIT_TEST" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="EmployeTest.EmployeTest.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="EmployeTest.EmployeTest.TestWorkerrepo" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="EmployeTest.EmployeTest" />
+    <option name="MAIN_CLASS_NAME" value="EmployeTest.EmployeTest.ControllworkerTest" />
+    <option name="METHOD_NAME" value="byWorkerId" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
